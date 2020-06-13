@@ -7,3 +7,5 @@ analyzing apps data from *AppleStore* and *GooglePlay Store* to help developers 
 1. Cleaning the data
     * removing rows with missing values
     * removing duplicate rows
+
+**link to** [solution] (https://github.com/dataquestio/solutions/blob/master/Mission350Solutions.ipynb)
